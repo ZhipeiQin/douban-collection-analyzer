@@ -1,0 +1,18 @@
+# 个人数据 —— 绝不提交
+*.csv
+douban_debug_*.html
+imdb_progress.csv
+movie_detail_progress.csv
+cookie.txt
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.streamlit/secrets.toml
+
+# 系统
+.DS_Store
+Thumbs.db
